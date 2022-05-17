@@ -14,7 +14,7 @@
 2) 주요내용: 네이버커넥트에서 제공하는 'iOS 부스트코스' 토이프로젝트 진행.
 3) 참여역할: 개인 프로젝트
 4) 사용스킬: 
-- MVC/Delegation/Singleton/Target-Action design pattern, View State Cycle, Gesture Recognizer, Modal
+ - MVC/Delegation/Singleton/Target-Action design pattern, View State Cycle, Gesture Recognizer, Modal
 - AutoLayout, Storyboard Segue, Navigation Interface, TabBarInterface, Table View, Scroll View, Navigation Items, Collection View, Collection View Flow Layout, Alert/Action Sheet, Activity View Controller
 - Codable, JSON Encoder/Decoder, URLSession
 - Operation Queue, Grand Central Dispatch, Notification Center
@@ -28,7 +28,7 @@
 5) 결과성과:
 - Cordova를 사용하여 패키징된 형태였는데, 네이티브 앱으로 새로 개발.
 - 외부 딥링크를 수신할 수 있게 하여 마케팅 활용도 향상/ 중단되었던 푸시 서비스 재개 / 움직이는 로딩이미지 구현으로 디자인성 향상.
-7)코드링크: https://github.com/WGYang-KR/WebAppPackage
+7) 코드링크: https://github.com/WGYang-KR/WebAppPackage
 
 <!--
 **WGYang-KR/WGYang-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
