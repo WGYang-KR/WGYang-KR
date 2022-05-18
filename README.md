@@ -48,7 +48,7 @@
 5) 결과성과: 
 - CS팀이 배송 현황을 실시간 확인 가능하도록 해서 업무 효율도 향상.
 - JSON 형식의 데이터를 RestAPI로 통신하는 법에 대해 알게됨.
-6) 코드공유: https://github.com/WGYang-KR/DeliveryManagerWeb
+6) 코드링크: https://github.com/WGYang-KR/DeliveryManagerWeb
 
 [인턴십: Web 배송 픽업 지원 모바일웹 개발]
 1) 진행기간: 2021-10-01 ~ 2021-10-31
@@ -58,7 +58,7 @@
 5) 결과성과: 
 - 종이로 이루어지던 작업을 전자화 시켜서 작업 효율도를 향상시킴.
 - 복잡한 쿼리 작성능력을 키움.
-6) 코드공유: https://github.com/WGYang-KR/PickingManager
+6) 코드링크: https://github.com/WGYang-KR/PickingManager
 
 
 <!--
