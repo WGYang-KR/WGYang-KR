@@ -7,7 +7,8 @@
 2) 주요내용: 할 일 관리를 돕는 유틸리티 앱 개발
 3) 참여역할: 개인 프로젝트
 4) 사용스킬: CoreData, FSCalendar
-5) 코드링크: https://github.com/WGYang-KR/DailyTwoDo
+5) 앱스토어: https://apps.apple.com/kr/app/daily-two-do/id1623950268
+6) 코드링크: https://github.com/WGYang-KR/DailyTwoDo
 
 [개인: iOS 부스트 코스]
 1) 진행기간: 2022-02-22 ~ 2022-04-08
