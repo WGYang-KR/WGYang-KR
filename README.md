@@ -19,7 +19,11 @@
 - AutoLayout, Storyboard Segue, Navigation Interface, TabBarInterface, Table View, Scroll View, Navigation Items, Collection View, Collection View Flow Layout, Alert/Action Sheet, Activity View Controller
 - Codable, JSON Encoder/Decoder, URLSession
 - Operation Queue, Grand Central Dispatch, Notification Center
-5) 코드링크: https://github.com/WGYang-KR/Boost-Toy-BoxOffice (프로필로 이동하시면 추가 4개의 토이프로젝트에 접근하실 수 있습니다.)
+5) 코드링크:
+- 회인가입 화면 구현: https://github.com/WGYang-KR/Boost-Toy-SignUp
+- 날씨 정보 토이앱: https://github.com/WGYang-KR/Boost-Toy-WeatherToday
+- 앨범 토이앱: https://github.com/WGYang-KR/Boost-Toy-MyAlbum
+- 영화 정보 토이앱: https://github.com/WGYang-KR/Boost-Toy-BoxOffice
 
 [ 인턴십: iOS 웹앱 패키징 ]
 1) 진행기간: 2021-12-01 ~ 2021-12-21
@@ -30,6 +34,29 @@
 - Cordova를 사용하여 패키징된 형태였는데, 네이티브 앱으로 새로 개발.
 - 외부 딥링크를 수신할 수 있게 하여 마케팅 활용도 향상/ 중단되었던 푸시 서비스 재개 / 움직이는 로딩이미지 구현으로 디자인성 향상.
 6) 코드링크: https://github.com/WGYang-KR/WebAppPackage
+
+
+### 웹 백앤드 프로젝트
+[인턴십: Web 배송 현황 관리 조회 기능 추가]
+1) 진행기간: 2021-11-01 ~ 2021-11-30
+2) 주요내용: 관리자페이지에 배송 차량 관리 RestAPI를 연동시켜서 배송 현황관리를 가능하게 하는 작업 .
+3) 참여역할: 백앤드로 참여. 서버에서 JSON 형식으로 데이터를 받아와서, 형식에 맞춰서 DB를 갱신시키는 작업 진행.
+4) 사용스킬: PHP, MySql, RestAPI 통신 
+5) 결과성과: 
+- CS팀이 배송 현황을 실시간 확인 가능하도록 해서 업무 효율도 향상.
+- JSON 형식의 데이터를 RestAPI로 통신하는 법에 대해 알게됨.
+6) 코드공유: https://github.com/WGYang-KR/DeliveryManagerWeb
+
+[인턴십: Web 배송 픽업 지원 모바일웹 개발]
+1) 진행기간: 2021-10-01 ~ 2021-10-31
+2) 주요내용: 배송 픽업 지원 모바일웹 개발. 
+3) 참여역할: DB에서 특정 배송기사에게 개인화된 데이터를 추출하는 쿼리 및 PHP 개발에 참여
+4) 사용스킬: PHP, MySQL
+5) 결과성과: 
+- 종이로 이루어지던 작업을 전자화 시켜서 작업 효율도를 향상시킴.
+- 복잡한 쿼리 작성능력을 키움.
+6) 코드공유: https://github.com/WGYang-KR/PickingManager
+
 
 <!--
 **WGYang-KR/WGYang-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
