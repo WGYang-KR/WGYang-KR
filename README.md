@@ -8,7 +8,7 @@
 1) 진행기간: 2022-06-15 ~ 진행중
 2) 주요내용: Rx를 적용한 메뉴판 앱 클론코딩
 3) 참여역할: 개인 프로젝트
-4) 사용스킬: RxSwift, RxCocoa
+4) 사용스킬: RxSwift, RxCocoa, MVVM, clean architecture
 5) 코드링크: https://github.com/WGYang-KR/RxKiosk
 
 [개인: 할일 관리 앱 클론코딩]
