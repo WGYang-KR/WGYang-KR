@@ -8,8 +8,15 @@
 1) 진행기간: 2022-06-15 ~ 진행중
 2) 주요내용: Rx를 적용한 메뉴판 앱 클론코딩
 3) 참여역할: 개인 프로젝트
-4) 사용스킬: RxSwift, RxCocoa, MVVM, Clean architecture
+4) 사용스킬: RX, MVVM, Clean architecture
 5) 코드링크: https://github.com/WGYang-KR/RxKiosk
+
+[개인: 카셰어링 앱 개발] 
+1) 진행기간: 2022-06-02 ~ 2022-06-08
+2) 주요내용: 카셰어링이 가능한 지역을 안내하는 기능 구현
+3) 참여역할: 개인 프로젝트
+4) 사용스킬: MapKit, UserDefaults, RX
+5) 코드링크: https://github.com/WGYang-KR/CarSharingZone
 
 [개인: 할일 관리 앱 클론코딩]
 1) 진행기간: 2022-04-21 ~ 2022-05-17
