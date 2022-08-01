@@ -15,7 +15,7 @@
 1) 진행기간: 2022-06-02 ~ 2022-06-08
 2) 주요내용: 카셰어링이 가능한 지역을 안내하는 기능 구현
 3) 참여역할: 개인 프로젝트
-4) 사용스킬: MapKit, UserDefaults, RX
+4) 사용스킬: MapKit, UserDefaults
 5) 코드링크: https://github.com/WGYang-KR/CarSharingZone
 
 [개인: 할일 관리 앱 클론코딩]
