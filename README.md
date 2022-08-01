@@ -11,7 +11,7 @@
 4) 사용스킬: RX, MVVM, Clean architecture
 5) 코드링크: https://github.com/WGYang-KR/RxKiosk
 
-[개인: 카셰어링 앱 개발] 
+[개인: 카셰어링 앱 화면 구현] 
 1) 진행기간: 2022-06-02 ~ 2022-06-08
 2) 주요내용: 카셰어링이 가능한 지역을 안내하는 기능 구현
 3) 참여역할: 개인 프로젝트
@@ -20,13 +20,13 @@
 
 [개인: 할일 관리 앱 클론코딩]
 1) 진행기간: 2022-04-21 ~ 2022-05-17
-2) 주요내용: 할 일 관리를 돕는 유틸리티 앱 클론코딩
+2) 주요내용: 할 일 관리를 돕는 유틸리티 앱 '데일리투두' 클론코딩
 3) 참여역할: 개인 프로젝트
 4) 사용스킬: CoreData, FSCalendar
 5) 앱스토어: https://apps.apple.com/kr/app/daily-two-do/id1623950268
 6) 코드링크: https://github.com/WGYang-KR/DailyTwoDo
 
-[개인: iOS 부트캠프 프로젝트]
+[개인: iOS 부스트코스 프로젝트]
 1) 진행기간: 2022-02-22 ~ 2022-04-08
 2) 주요내용: 회원가입 화면, 날씨 정보 앱, 앨범 앱, 영화 정보 앱 - 네이버커넥트 iOS 부스트코스
 3) 참여역할: 개인 프로젝트
@@ -41,9 +41,9 @@
 - 앨범 앱: https://github.com/WGYang-KR/Boost-Toy-MyAlbum
 - 영화 정보 앱: https://github.com/WGYang-KR/Boost-Toy-BoxOffice
 
-[인턴십: iOS 웹앱 패키징]
+[인턴십: iOS 하이브리드앱 패키징]
 1) 진행기간: 2021-12-01 ~ 2021-12-21
-2) 주요내용: 웹앱 iOS 패키징 및 배포
+2) 주요내용: 하이브리드앱 iOS 패키징 및 배포
 3) 참여역할: 산학인턴십에 참여하여 사내 개인 프로젝트로 진행.
 4) 사용스킬: WebKit, OneSignal Push API, Lotti Animation
 5) 결과성과:
