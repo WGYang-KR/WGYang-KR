@@ -4,11 +4,12 @@
 
 ---
 ### iOS 프로젝트
-(진행중)[개인: 메뉴 계산 앱 클론코딩] 
-1) 진행기간: 2022-06-15 ~ 진행중
-2) 주요내용: Rx를 적용한 메뉴판 앱 클론코딩
+[개인: 무한스크롤 테이블 구현]
+1) 진행기간: 2022-08-07 ~ 2022-08-09
+2) 주요내용: 계속해서 추가 데이터를 받아와 출력하는 테이블 구현
 3) 참여역할: 개인 프로젝트
-4) 사용스킬: RX, MVVM, Clean architecture
+4) 사용스킬: MVVM, Clean architecture, Alamofire, Kingfisher, PrettyConstraints
+5) 코드링크: https://github.com/WGYang-KR/InfiniteScrollBoard
 
 [개인: 카셰어링 앱 화면 구현] 
 1) 진행기간: 2022-06-02 ~ 2022-06-08
