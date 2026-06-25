@@ -16,7 +16,6 @@ AI 기반 심리 성장 앱
 
 🔗 [App Store](https://apps.apple.com/app/id6760294207)
 
----
 
 ### 📷 HashCamera
 폴더 기반 카메라 및 사진 관리 앱
@@ -24,7 +23,6 @@ AI 기반 심리 성장 앱
 
 🔗 [App Store](https://apps.apple.com/app/d6449596508)
 
----
 
 ### 📚 암카
 플래시카드 암기 학습 앱
@@ -33,7 +31,7 @@ AI 기반 심리 성장 앱
 🔗 [App Store](https://apps.apple.com/app/id6743947915)
 
 
-##🎯 Interests
+## 🎯 Interests
 * Architecture & Refactoring
 * Product Development
 * AI Applications
