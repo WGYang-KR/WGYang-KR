@@ -1,17 +1,41 @@
-### Hi there 👋
+### 안녕하세요, iOS 개발자 양원국입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWGYang-KR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
-**WGYang-KR/WGYang-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+* Swift / Objective-C
+* UIKit / SwiftUI
+* RxSwift / Combine
+* MVVM / Clean Architecture
+* Firebase / Realm
+* Fastlane
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### 🧠 마인드트립
+AI 기반 심리 성장 앱
+감정 정리, 관계, 번아웃, 자기이해 등 다양한 주제를 심리학 기반 대화형 코스로 탐색할 수 있는 서비스입니다.
+
+🔗 [App Store](https://apps.apple.com/app/id6760294207)
+
+---
+
+### 📷 HashCamera
+폴더 기반 카메라 및 사진 관리 앱
+촬영과 동시에 원하는 폴더에 사진을 저장할 수 있도록 설계된 카메라 앱입니다.
+
+🔗 [App Store](https://apps.apple.com/app/d6449596508)
+
+---
+
+### 📚 암카
+플래시카드 암기 학습 앱
+라이트너 학습법을 기반으로 효율적인 반복 학습을 지원하는 플래시카드 앱입니다.
+
+🔗 [App Store](https://apps.apple.com/app/id6743947915)
+
+
+##🎯 Interests
+* Architecture & Refactoring
+* Product Development
+* AI Applications
+* User Experience
+* Development Productivity
