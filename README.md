@@ -1,15 +1,17 @@
 ### 안녕하세요, iOS 개발자 양원국입니다.
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 * Swift / Objective-C
 * UIKit / SwiftUI
-* RxSwift / Combine
+* RxSwift
 * MVVM / Clean Architecture
-* Firebase / Realm
-* Fastlane
+
+## 📖 관심 있게 공부 중
+* Firebase Functions & Firestore
+* React Native
 
 
-## 🚀 Projects
+## 🚀 프로젝트
 ### 🧠 마인드트립
 AI 기반 심리 성장 앱
 감정 정리, 관계, 번아웃, 자기이해 등 다양한 주제를 심리학 기반 대화형 코스로 탐색할 수 있는 서비스입니다.
@@ -31,9 +33,9 @@ AI 기반 심리 성장 앱
 🔗 [App Store](https://apps.apple.com/app/id6743947915)
 
 
-## 🎯 Interests
-* Architecture & Refactoring
-* Product Development
-* AI Applications
-* User Experience
-* Development Productivity
+## 💡 관심 분야
+* AI 기반 서비스 개발
+* 사용자 경험(UX) 개선
+* 아키텍처 설계 및 리팩토링
+* 새로운 기술을 제품에 적용하는 과정
+* 사용자에게 가치를 주는 앱 만들기
