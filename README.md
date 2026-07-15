@@ -7,8 +7,8 @@
 * MVVM / Clean Architecture
 
 ## 📖 관심 있게 공부 중
+* Flutter
 * Firebase Functions & Firestore
-* React Native
 
 
 ## 🚀 프로젝트
