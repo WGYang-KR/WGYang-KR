@@ -23,7 +23,7 @@ AI 기반 심리 성장 앱
 폴더 기반 카메라 및 사진 관리 앱
 촬영과 동시에 원하는 폴더에 사진을 저장할 수 있도록 설계된 카메라 앱입니다.
 
-🔗 [App Store](https://apps.apple.com/app/d6449596508)
+🔗 [App Store](https://apps.apple.com/app/id6449596508)
 
 
 ### 📚 암카 시리즈
