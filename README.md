@@ -16,6 +16,7 @@
 AI 기반 심리 성장 앱
 감정 정리, 관계, 번아웃, 자기이해 등 다양한 주제를 심리학 기반 대화형 코스로 탐색할 수 있는 서비스입니다.
 
+🔗 [앱 소개](https://mindtrip.me/kr)
 🔗 [App Store](https://apps.apple.com/kr/app/id6760294207)
 
 
