@@ -34,4 +34,4 @@ AI 기반 심리 성장 앱
 🔗 [암카 토익](https://apps.apple.com/kr/app/id6743947915)
 🔗 [암카 상공한자](https://apps.apple.com/kr/app/id6740179850)
 🔗 [암카 수능](https://apps.apple.com/kr/app/id6746262586)
-🔗 [암카 최빈 영단어 3000](https://apps.apple.com/kr/app/id6746161864)
+🔗 [암카 최빈 영단어](https://apps.apple.com/kr/app/id6746161864)
