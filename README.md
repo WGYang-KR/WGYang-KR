@@ -31,4 +31,7 @@ AI 기반 심리 성장 앱
 플래시카드 암기 학습 앱
 라이트너 학습법을 기반으로 효율적인 반복 학습을 지원하는 플래시카드 앱입니다.
 
-🔗 [App Store](https://apps.apple.com/kr/app/id6743947915)
+🔗 [암카 토익](https://apps.apple.com/kr/app/id6743947915)
+🔗 [암카 상공한자](https://apps.apple.com/kr/app/id6740179850)
+🔗 [암카 수능](https://apps.apple.com/kr/app/id6746262586)
+🔗 [암카 최빈 영단어 3000](https://apps.apple.com/kr/app/id6746161864)
