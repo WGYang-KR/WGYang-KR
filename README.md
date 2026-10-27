@@ -5,7 +5,7 @@
 * 분석·수익화 : GA4, Firebase Analytics, AppsFlyer, RevenueCat, AdMob SDK
 * 디자인·개발 도구 : Figma, Git, Codex
 
-## 🚀 프로젝트
+## 🚀 개인 프로젝트
 ### 📖 암카
 기존 암카 시리즈를 통합한 크로스플랫폼 앱
 
